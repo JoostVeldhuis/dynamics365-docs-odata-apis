@@ -57,4 +57,4 @@ objects available to use in the Web API.
 ## Related Sections  
  [Use the Microsoft Dynamics 365 Customer Engagement Web API](https://docs.microsoft.com/dynamics365/customer-engagement/developer/use-microsoft-dynamics-365-web-api)<br />
  [Web API types and operations](https://docs.microsoft.com/dynamics365/customer-engagement/developer/web-api-types-operations)<br />
- [Perform operations using the Web API](https://docs.microsoft.com/dynamics365/customer-engagement/developer/perform-operations-web-api)
+ [Perform operations using the Web API](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webapi/perform-operations-web-api)
